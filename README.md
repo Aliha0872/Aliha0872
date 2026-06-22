@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:000000,50:ff00c8,100:00fff7&height=140&section=header)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=800&color=FF00C8&center=true&vCenter=true&width=700&lines=Aliha+Fatima;%3E+SYSTEM+BREACH+DETECTED;%3E+root%40aliha%3A~%23+whoami;%3E+%5BERROR%5D+too+much+chaos+to+compile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=800&color=FF00C8&center=true&vCenter=true&width=700&lines=Aliha+Fatima;%3E+SYSTEM+BREACH+DETECTED;%3E+root%40aliha%3A~%23+whoami;%3E+ERROR%3A+too+much+chaos+to+compile" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FFF7&center=true&vCenter=true&width=700&lines=%3E+injecting+chaos.exe...;%3E+rules%3A+0+%7C+vibes%3A+%E2%88%9E;%3E+learning...+breaking...+REBUILDING;%3E+warning%3A+unstable+genius+detected;%3E+access_granted_%3A%3Awelcome+to+the+glitch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FFF7&center=true&vCenter=true&width=700&lines=%3E+injecting+chaos.exe...;%3E+rules%3A+0+%7C+vibes%3A+%E2%88%9E;%3E+learning...+breaking...+REBUILDING;%3E+warning%3A+brain+running+on+4+energy+drinks;%3E+access_granted_%3A%3Awelcome+to+the+glitch" alt="Typing SVG" />
 
 </div>
 
