@@ -71,9 +71,8 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff0033&labelColor=000000)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00fff7&labelColor=000000)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0033&labelColor=000000)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00fff7&labelColor=000000)](https://www.linkedin.com/in/alihafatima-chaudhry/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0033&labelColor=000000)](mailto:alihafatima030@gmail.com)
 
 </div>
 
