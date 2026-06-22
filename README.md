@@ -30,8 +30,8 @@
 ### `[ stats.exe ]`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aliha927&show_icons=true&hide=stars&theme=radical&hide_border=true&bg_color=000000&border_color=ff0033&title_color=00fff7&icon_color=ff0033&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliha927&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=00fff7&currStreakLabel=00fff7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aliha0872&show_icons=true&hide=stars&theme=radical&hide_border=true&bg_color=000000&border_color=ff0033&title_color=00fff7&icon_color=ff0033&text_color=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliha0872&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=00fff7&currStreakLabel=00fff7" width="49%" />
 </div>
 
 <br>
